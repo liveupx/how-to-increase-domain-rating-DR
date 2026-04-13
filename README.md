@@ -108,12 +108,6 @@ To confirm the strategy works across different verticals, we tested on additiona
 
 ![gurjar.app Ahrefs Domain Rating 9](images/gurjar-app-domain-rating-9-ahrefs.png)
 
-### onebanking.app — DR 2 (Fintech — Newly Launched)
-
-![onebanking.app Ahrefs Domain Rating 2](images/onebanking-app-domain-rating-2-ahrefs.png)
-
-Every domain showed measurable DR growth during the campaign period.
-
 ---
 
 ## Strategy Overview
